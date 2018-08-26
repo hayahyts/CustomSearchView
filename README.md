@@ -36,6 +36,7 @@ A custom search view for Android
     </LinearLayout>
 ```
 
+**Get CustomSearchView in your Activity or Fragment**
 ```java
       class MainActivity : AppCompatActivity() {
 
